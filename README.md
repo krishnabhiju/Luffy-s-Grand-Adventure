@@ -1,4 +1,5 @@
 # Luffy's Grand Adventure
+![image](https://github.com/user-attachments/assets/a1405ac8-2e39-4be7-9ae7-507bf37c8815)
 
 A One Piece themed adventure game where you play as Monkey D. Luffy on his journey to become the Pirate King!
 
