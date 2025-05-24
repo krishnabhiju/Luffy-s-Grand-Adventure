@@ -2,7 +2,12 @@
 
 A One Piece themed adventure game where you play as Monkey D. Luffy on his journey to become the Pirate King!
 
+# Leveraging Amazon Q CLI for Game Development
+
+During the development of Luffy's Grand Adventure, I utilized Amazon Q CLI, an AI-powered coding assistant that integrates seamlessly into the command-line interface. This tool significantly streamlined the development process by providing real-time code suggestions, generating boilerplate code, and assisting with debugging tasks—all through natural language prompts. For instance, when implementing Luffy's stretching mechanics or designing boss battle behaviors, Amazon Q CLI offered valuable code snippets and guidance, reducing development time and enhancing code quality. Its ability to understand the context of my project and provide tailored assistance made it an indispensable tool in bringing the world of One Piece to life through this game.
+
 ## Game Features
+
 
 ### Gameplay
 - Control Luffy and defeat pirates using his rubber abilities
@@ -47,15 +52,25 @@ A One Piece themed adventure game where you play as Monkey D. Luffy on his journ
 ## How to Play
 
 1. Run the game:
+![Screenshot 2025-05-24 165814](https://github.com/user-attachments/assets/74c33927-30c5-4ec2-a917-c6370d47b1ea)
+
 ```
 python main.py
 ```
 
 2. Select your difficulty level
+![Screenshot 2025-05-24 165826](https://github.com/user-attachments/assets/afaa8c92-a682-4602-87f7-91aa49f5bf5a)
+
+
 3. Defeat pirates by clicking to punch in their direction
 4. Collect power-ups that drop from defeated pirates
 5. Unlock crew members as you progress
 6. Defeat bosses to advance to new islands
+![Screenshot 2025-05-24 165847](https://github.com/user-attachments/assets/3938df7c-e6a8-4213-87df-5be95775b238)
+
+
+
+![Screenshot 2025-05-24 165945](https://github.com/user-attachments/assets/facd5f7f-b508-48bb-a41d-44297fe5cce1)
 
 ## Requirements
 - Python 3.x
